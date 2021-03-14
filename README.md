@@ -1,6 +1,13 @@
 # Getting Started with the React Web App for Game of Thrones' Houses
 
-This is a Single Page Application to display all houses of Game of Thrones using React. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Single Page Application to display all houses of Game of Thrones using React.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Documentation for the Game of Thrones API is available [here](https://www.anapioficeandfire.com/Documentation).
+The application is tested End-2-End using [Cypress Framework](https://www.cypress.io/)
+
+## Technology Stack
+
+JavaScript, React, Material UI and Cypress JS
 
 ## Available Scripts
 
